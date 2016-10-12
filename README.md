@@ -1,2 +1,2 @@
-# hex-oz
-A Tournament of Hex: Oz implementation (2015)
+# A Tournament of Hex: Oz implementation (2015)
+For the course of Programming Languages, I created a declarative implementation of the Game of Hex in the Oz programming language. It won the tournament! The project assignment and report can be found under `assignment-2015.pdf` and `report.pdf` respectively.
